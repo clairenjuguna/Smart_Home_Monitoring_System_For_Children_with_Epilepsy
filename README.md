@@ -22,5 +22,6 @@ Create a requirements.txt file:
 ## License
 
 MIT License
-![image](https://github.com/user-attachments/assets/7663aaa1-8acd-462f-89c4-e03935c6a497)
 
+
+![image](https://github.com/user-attachments/assets/23c67925-091e-43d5-872b-e7e1485173e0)
